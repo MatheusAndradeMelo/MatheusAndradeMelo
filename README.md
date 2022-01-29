@@ -1,4 +1,4 @@
-## Olá, eu sou o Matheus Andrade, e sou residente TIC/Software | Serratec - Parque Tecnológico da região serrana. Bem-vindo(a) ao meu github 😎 !
+## Olá, eu sou o Matheus Andrade. Bem-vindo(a) ao meu github 😎 !
 
 <div align="center">
   <a href="https://github.com/MatheusAndradeMelo">
